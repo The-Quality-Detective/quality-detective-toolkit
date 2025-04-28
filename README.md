@@ -162,5 +162,3 @@ Your one-stop repository for quality-focused resources that help build better so
 This repository is licensed under MIT License.
 
 ## Star ⭐ this repository if you find it helpful!
-
-_Last updated: [Current Month Year]_
